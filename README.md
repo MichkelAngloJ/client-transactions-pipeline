@@ -30,7 +30,7 @@ python -m app.ingest data/client_transactions_may_oct_2026.csv
 uvicorn app.main:app --reload
 ```
 
-The connection string comes from `DATABASE_URL`, read from `.env` or the environment (the environment wins). Hosted Postgres works too: put its URL in `.env` with `?sslmode=require` and skip `createdb`. The ingest only drops and recreates its own seven tables and one view, and the whole load is well under 1 MB.
+The connection string comes from `DATABASE_URL`, read from `.env` or the environment (the environment wins). Hosted Postgres works too: put its URL in `.env` with `?sslmode=require` and skip `createdb`. The ingest only drops and recreates its own six tables and one view, and the whole load is well under 1 MB.
 
 The ingest prints a summary of what it found. It rebuilds every table from scratch in a single transaction, so it's safe to re-run, and a failed run leaves the previous load in place.
 
