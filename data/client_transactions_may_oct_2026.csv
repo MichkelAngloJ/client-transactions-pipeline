@@ -1,0 +1,294 @@
+transaction_id,date,client_id,client_name,fund_type,distributor,stock_code,stock_name,transaction_type,quantity,price_per_unit,total_value
+TXN-10034,25-07-2026,PMS-002,Kavita Nair,PMS,Waterfield Advisors,BHARTIARTL,Bharti Airtel Ltd,REDEMPTION,50,1500.2,75010.0
+TXN-10176,2026-07-23,PMS-011,Kavita Krishnan,PMS,Waterfield Advisors,TITAN,Titan Company Ltd,BUY,150,3271.64,490746.0
+TXN-10074,03/08/2026,PMS-023,Padma Desai,PMS,Motilal Oswal Private Wealth,ULTRACEMCO,UltraTech Cement Ltd,SELL,200,8406.88,1681376.0
+TXN-10032,09/21/2026,AIF-008,Venkat Reddy,AIF,Sanctum Wealth,INFY,Infosys Ltd,BUY,50,1636.78,81839.0
+TXN-10181,05/07/2026,PMS-020,Suresh Nair,PMS,Centrum Wealth Management,SBIN,State Bank of India,PURCHASE,10,747.15,7471.5
+TXN-10143,2026-10-20,,Kavita Krishnan,PMS,Waterfield Advisors,INFY,Infosys Ltd,SELL,25,1595.7,39892.5
+TXN-10258,2026-05-19,AIF-017,Vikram Desai,AIF,Motilal Oswal Private Wealth,SUNPHARMA,Sun Pharmaceutical Industries Ltd,BUY,15,1743.37,26150.55
+TXN-10243,05/19/2026,PMS-032,Sunita Chandra,PMS,Avendus Wealth Management,SBIN,State Bank of India,BUY,75,772.52,57939.0
+TXN-10112,09-10-2026,PMS-032,Sunita Chandra,PMS,Avendus Wealth Management,INFY,Infosys Ltd,BUY,20,1553.1,31062.0
+TXN-10152,06/24/2026,AIF-018,Prakash Kapoor,AIF,A. Rathi Wealth,ASIANPAINT,Asian Paints Ltd,BUY,150,3033.61,455041.5
+TXN-10161,21/05/2026,PMS-032,Sunita Chandra,PMS,Avendus Wealth Management,ASIANPAINT,Asian Paints Ltd,BUY,15,2845.05,42675.75
+TXN-10092,05/14/2026,PMS-005,Priya Gupta,PMS,Waterfield Advisors,DIVISLAB,Divi's Laboratories Ltd,REDEMPTION,150,3349.24,502386.0
+TXN-10187,26/07/2026,PMS-006,Nirmala Rajan,PMS,A. Rathi Wealth,SUNPHARMA,Sun Pharmaceutical Industries Ltd,PURCHASE,15,1586.45,23796.75
+TXN-10106,03/09/2026,AIF-003,Shanti Chandra,AIF,Sanctum Wealth,BAJFINANCE,Bajaj Finance Ltd,REDEMPTION,75,7437.92,557844.0
+TXN-10160,2026-08-31,PMS-030,Kamala Patel,PMS,Avendus Wealth Management,HDFCBANK,HDFC Bank Ltd,BUY,50,1764.61,88230.5
+TXN-10022,07/10/2026,NULL,Priya Nair,PMS,IIFL Wealth Management,TCS,Tata Consultancy Services Ltd,BUY,10,4233.81,42338.1
+TXN-10144,06/29/2026,AIF-018,Prakash Kapoor,AIF,A. Rathi Wealth,TITAN,Titan Company Ltd,BUY,150,3082.32,462348.0
+TXN-10223,2026-08-01,,Venkat Reddy,AIF,Sanctum Wealth,TCS,Tata Consultancy Services Ltd,SELL,100,3517.11,351711.0
+TXN-10235,2026-07-29,PMS-028,Kavita Verma,PMS,Waterfield Advisors,BHARTIARTL,Bharti Airtel Ltd,REDEMPTION,30,1404.98,42149.4
+TXN-10019,23/09/2026,PMS-026,Venkat Mehta,PMS,Waterfield Advisors,INFY,Infosys Ltd,PURCHASE,150,1442.85,216427.5
+TXN-10205,27/07/2026,PMS-020,Suresh Nair,PMS,Centrum Wealth Management,BHARTIARTL,Bharti Airtel Ltd,PURCHASE,75,1547.14,116035.5
+TXN-10159,2026-10-05,PMS-007,Sunita Verma,PMS,Sanctum Wealth,ASIANPAINT,Asian Paints Ltd,SELL,200,2680.59,536118.0
+TXN-10270,08/09/2026,PMS-024,Sanjay Desai,PMS,Waterfield Advisors,ICICIBANK,ICICI Bank Ltd,BUY,5,1058.7,5293.5
+TXN-10145,26-06-2026,AIF-001,Kishore Verma,AIF,Centrum Wealth Management,MARUTI,Maruti Suzuki India Ltd,PURCHASE,200,11839.6,2367920.0
+TXN-10248,13/08/2026,,Venkat Mehta,PMS,Waterfield Advisors,NESTLEIND,Nestle India Ltd,SELL,10,2555.2,25552.0
+TXN-10062,08-08-2026,PMS-018,Kamala Rajan,PMS,Avendus Wealth Management,BAJFINANCE,Bajaj Finance Ltd,SELL,200,6577.14,1315428.0
+TXN-10156,07-05-2026,PMS-012,Rekha Pillai,PMS,IIFL Wealth Management,INFY,Infosys Ltd,REDEMPTION,30,1408.07,42242.1
+TXN-10038,15/09/2026,PMS-033,Sunita Agarwal,PMS,Sanctum Wealth,SUNPHARMA,Sun Pharmaceutical Industries Ltd,REDEMPTION,5,1623.27,8116.35
+TXN-10200,25/05/2026,AIF-007,Vikram Mehta,AIF,Sanctum Wealth,MARUTI,Maruti Suzuki India Ltd,BUY,50,11633.32,581666.0
+TXN-10082,01-07-2026,PMS-027,Deepak Srinivasan,PMS,Sanctum Wealth,NESTLEIND,Nestle India Ltd,SELL,200,2491.49,498298.0
+TXN-10098,08/25/2026,PMS-019,Usha Gupta,PMS,IIFL Wealth Management,KOTAKBANK,Kotak Mahindra Bank Ltd,REDEMPTION,20,1627.34,32546.8
+TXN-10280,07/20/2026,PMS-021,Priya Nair,PMS,IIFL Wealth Management,NESTLEIND,Nestle India Ltd,SELL,75,2619.21,196440.75
+TXN-10089,10/26/2026,PMS-003,Vikram Iyer,PMS,IIFL Wealth Management,RELIANCE,Reliance Industries Ltd,SELL,200,2700.27,540054.0
+TXN-10197,22/05/2026,AIF-019,Meena Agarwal,AIF,Anand Rathi Wealth,MARUTI,Maruti Suzuki India Ltd,PURCHASE,15,11510.46,172656.9
+TXN-10223,2026-08-01,AIF-008,Venkat Reddy,AIF,Sanctum Wealth,TCS,Tata Consultancy Services Ltd,SELL,100,3517.11,351711.0
+TXN-10190,08-10-2026,AIF-014,Geeta Sharma,AIF,Centrum Wealth Management,TCS,Tata Consultancy Services Ltd,BUY,150,3845.47,576820.5
+TXN-10252,10/09/2026,PMS-015,Mahesh Patel,PMS,ASK Wealth Advisors,TITAN,Titan Company Ltd,PURCHASE,10,3344.85,33448.5
+TXN-10007,30/06/2026,PMS-003,Vikram Iyer,PMS,IIFL Wealth Management,MARUTI,Maruti Suzuki India Ltd,BUY,75,10990.5,824287.5
+TXN-10191,07/10/2026,PMS-029,Gopal Pillai,PMS,Anand Rathi Wealth,DIVISLAB,Divi's Laboratories Ltd,REDEMPTION,200,3472.71,694542.0
+TXN-10014,05/01/2026,PMS-026,Venkat Mehta,PMS,Waterfield Advisors,RELIANCE,Reliance Industries Ltd,BUY,25,2720.71,68017.75
+TXN-10201,25/07/2026,AIF-012,Rekha Pillai,AIF,IIFL Wealth Management,PIDILITIND,Pidilite Industries Ltd,PURCHASE,200,2611.46,522292.0
+TXN-10183,05/11/2026,AIF-019,Meena Agarwal,AIF,Anand Rathi Wealth,TITAN,Titan Company Ltd,BUY,75,3060.46,229534.5
+TXN-10195,2026-05-11,AIF-003,  Shanti Chandra  ,AIF,Sanctum Wealth  ,ULTRACEMCO,UltraTech Cement Ltd,PURCHASE,150,9107.51,1366126.5
+TXN-10185,2026-06-13,PMS-026,Venkat Mehta,PMS,Waterfield Advisors,HDFCBANK,HDFC Bank Ltd,PURCHASE,150,1749.44,262416.0
+TXN-10133,07/08/2026,PMS-030,Kamala Patel,PMS,Avendus Wealth Management,KOTAKBANK,Kotak Mahindra Bank Ltd,BUY,10,1905.79,19057.9
+TXN-10065,06/08/2026,PMS-030,Kamala Patel,PMS,Avendus Wealth Management,BHARTIARTL,Bharti Airtel Ltd,BUY,75,1370.97,102822.75
+TXN-10109,2026-05-01,AIF-015,Nirmala Mehta,AIF,IIFL Wealth Management,SUNPHARMA,Sun Pharmaceutical Industries Ltd,PURCHASE,100,1732.97,173297.0
+TXN-10091,2026-08-31,PMS-012,Rekha Pillai,PMS,IIFL Wealth Management,RELIANCE,Reliance Industries Ltd,BUY,10,2288.59,22885.9
+TXN-10013,2026-06-30,AIF-019,Meena Agarwal,AIF,Anand Rathi Wealth,HDFCBANK,HDFC Bank Ltd,PURCHASE,75,1539.88,115491.0
+TXN-10101,2026-08-21,AIF-018,Prakash Kapoor,AIF,A. Rathi Wealth,DIVISLAB,Divi's Laboratories Ltd,PURCHASE,25,3329.53,83238.25
+TXN-10100,2026-05-19,PMS-010,Saroja Menon,PMS,Avendus Wealth Management,AXISBANK,Axis Bank Ltd,PURCHASE,25,1048.72,26218.0
+TXN-10131,2026-08-28,PMS-017,Priya Verma,PMS,Centrum Wealth Management,HDFCBANK,HDFC Bank Ltd,PURCHASE,200,1782.4,356480.0
+TXN-10063,02/06/2026,AIF-012,  Rekha Pillai  ,AIF,IIFL Wealth Management  ,BHARTIARTL,Bharti Airtel Ltd,PURCHASE,100,1556.53,155653.0
+TXN-10128,2026-08-19,PMS-004,Usha Menon,PMS,Anand Rathi Wealth,KOTAKBANK,Kotak Mahindra Bank Ltd,BUY,100,1653.82,165382.0
+TXN-10015,2026-10-26,AIF-016,Ravi Joshi,AIF,Waterfield Advisors,ASIANPAINT,Asian Paints Ltd,BUY,100,3219.82,321982.0
+TXN-10088,17/07/2026,PMS-019,Usha Gupta,PMS,IIFL Wealth Management,LT,Larsen & Toubro Ltd,BUY,100,2889.05,288905.0
+TXN-10207,06/10/2026,PMS-034,Shanti Srinivasan,PMS,Motilal Oswal Private Wealth,RELIANCE,Reliance Industries Ltd,REDEMPTION,50,2297.0,114850.0
+TXN-10113,2026-08-13,PMS-020,Suresh Nair,PMS,Centrum Wealth Management,ULTRACEMCO,UltraTech Cement Ltd,BUY,10,8451.5,84515.0
+TXN-10247,19/09/2026,AIF-002,Kishore Chandra,AIF,Sanctum Wealth,TITAN,Titan Company Ltd,SELL,10,2870.46,28704.6
+TXN-10233,2026-10-02,PMS-006,Nirmala Rajan,PMS,A. Rathi Wealth,BAJFINANCE,Bajaj Finance Ltd,BUY,15,7473.33,112099.95
+TXN-10047,2026-06-13,AIF-009,Lakshmi Rajan,AIF,ASK Wealth Advisors,SBIN,State Bank of India,SELL,25,804.78,20119.5
+TXN-10044,18-10-2026,AIF-001,Kishore Verma,AIF,Centrum Wealth Management,ICICIBANK,ICICI Bank Ltd,BUY,200,1175.12,235024.0
+TXN-10149,11/07/2026,N/A,Sunita Chandra,PMS,Avendus Wealth Management,PIDILITIND,Pidilite Industries Ltd,SELL,30,2583.65,77509.5
+TXN-10134,2026-10-27,AIF-002,Kishore Chandra,AIF,Sanctum Wealth,TITAN,Titan Company Ltd,SELL,200,2973.04,594608.0
+TXN-10108,23/05/2026,PMS-026,Venkat Mehta,PMS,Waterfield Advisors,ULTRACEMCO,UltraTech Cement Ltd,BUY,30,8858.71,265761.3
+TXN-10111,06/03/2026,PMS-004,Usha Menon,PMS,Anand Rathi Wealth,SBIN,State Bank of India,BUY,75,846.72,63504.0
+TXN-10174,06/06/2026,PMS-023,Padma Desai,PMS,Motilal Oswal Private Wealth,HDFCBANK,HDFC Bank Ltd,BUY,50,1671.89,83594.5
+TXN-10274,2026-10-20,AIF-018,Prakash Kapoor,AIF,A. Rathi Wealth,HDFCBANK,HDFC Bank Ltd,BUY,50,1521.17,76058.5
+TXN-10068,2026-07-03,AIF-007,Vikram Mehta,AIF,Sanctum Wealth,RELIANCE,Reliance Industries Ltd,PURCHASE,5,2330.88,11654.4
+TXN-10175,2026-09-13,AIF-013,Ramesh Menon,AIF,Motilal Oswal Private Wealth,HDFCBANK,HDFC Bank Ltd,BUY,50,1555.99,77799.5
+TXN-10285,14-06-2026,PMS-016,Prakash Iyer,PMS,Sanctum Wealth,DIVISLAB,Divi's Laboratories Ltd,BUY,15,3431.06,51465.9
+TXN-10279,16/05/2026,AIF-005,  Nirmala Agarwal  ,AIF,IIFL Wealth Management  ,NESTLEIND,Nestle India Ltd,PURCHASE,100,2498.77,249877.0
+TXN-10137,08-10-2026,AIF-009,Lakshmi Rajan,AIF,ASK Wealth Advisors,ICICIBANK,ICICI Bank Ltd,REDEMPTION,25,1111.61,27790.25
+TXN-10097,24/10/2026,PMS-011,Kavita Krishnan,PMS,Waterfield Advisors,HDFCBANK,HDFC Bank Ltd,SELL,25,1680.96,42024.0
+TXN-10231,11/08/2026,AIF-017,Vikram Desai,AIF,Motilal Oswal Private Wealth,TITAN,Titan Company Ltd,SELL,50,3250.85,162542.5
+TXN-10094,08/22/2026,PMS-034,Shanti Srinivasan,PMS,Motilal Oswal Private Wealth,SUNPHARMA,Sun Pharmaceutical Industries Ltd,SELL,150,1611.91,241786.5
+TXN-10011,17/08/2026,PMS-013,Priya Bhat,PMS,IIFL Wealth Management,ULTRACEMCO,UltraTech Cement Ltd,SELL,75,8617.62,646321.5
+TXN-10228,26/08/2026,AIF-017,Vikram Desai,AIF,Motilal Oswal Private Wealth,ICICIBANK,ICICI Bank Ltd,BUY,20,979.99,19599.8
+TXN-10268,2026-07-11,PMS-033,Sunita Agarwal,PMS,Sanctum Wealth,ASIANPAINT,Asian Paints Ltd,PURCHASE,150,3141.93,471289.5
+TXN-10124,2026-09-14,AIF-020,Dinesh Desai,AIF,Centrum Wealth Management,MARUTI,Maruti Suzuki India Ltd,PURCHASE,30,11224.02,336720.6
+TXN-10049,2026-08-30,PMS-010,Saroja Menon,PMS,Avendus Wealth Management,HDFCBANK,HDFC Bank Ltd,BUY,10,1686.72,16867.2
+TXN-10214,09/09/2026,AIF-014,Geeta Sharma,AIF,Centrum Wealth Management,BHARTIARTL,Bharti Airtel Ltd,BUY,50,1319.85,65992.5
+TXN-10213,30/10/2026,PMS-024,Sanjay Desai,PMS,Waterfield Advisors,ULTRACEMCO,UltraTech Cement Ltd,PURCHASE,10,9836.44,98364.4
+TXN-10177,06/10/2026,PMS-004,  Usha Menon  ,PMS,Anand Rathi Wealth  ,ICICIBANK,ICICI Bank Ltd,BUY,10,982.75,9827.5
+TXN-10185,2026-06-13,PMS-026,Venkat Mehta,PMS,Waterfield Advisors,HDFCBANK,HDFC Bank Ltd,PURCHASE,150,1749.44,262416.0
+TXN-10018,05/18/2026,PMS-033,Sunita Agarwal,PMS,Sanctum Wealth,TCS,Tata Consultancy Services Ltd,PURCHASE,200,3923.18,784636.0
+TXN-10024,2026-10-28,PMS-011,Kavita Krishnan,PMS,Waterfield Advisors,ASIANPAINT,Asian Paints Ltd,PURCHASE,200,2833.49,566698.0
+TXN-10162,09/18/2026,PMS-018,Kamala Rajan,PMS,Avendus Wealth Management,PIDILITIND,Pidilite Industries Ltd,REDEMPTION,50,2970.93,148546.5
+TXN-10037,2026-07-11,AIF-008,Venkat Reddy,AIF,Sanctum Wealth,SBIN,State Bank of India,BUY,25,836.84,20921.0
+TXN-10005,2026-06-27,PMS-034,Shanti Srinivasan,PMS,Motilal Oswal Private Wealth,ASIANPAINT,Asian Paints Ltd,BUY,5,2692.78,13463.9
+TXN-10169,2026-10-01,AIF-012,Rekha Pillai,AIF,IIFL Wealth Management,RELIANCE,Reliance Industries Ltd,PURCHASE,10,2386.97,23869.7
+TXN-10158,2026-08-30,PMS-034,Shanti Srinivasan,PMS,Motilal Oswal Private Wealth,INFY,Infosys Ltd,REDEMPTION,30,1504.28,45128.4
+TXN-10142,20/09/2026,AIF-012,Rekha Pillai,AIF,IIFL Wealth Management,SUNPHARMA,Sun Pharmaceutical Industries Ltd,PURCHASE,50,1634.9,81745.0
+TXN-10220,2026-07-01,PMS-016,Prakash Iyer,PMS,Sanctum Wealth,KOTAKBANK,Kotak Mahindra Bank Ltd,BUY,150,1751.46,262719.0
+TXN-10009,2026-08-14,PMS-007,Sunita Verma,PMS,Sanctum Wealth,BAJFINANCE,Bajaj Finance Ltd,BUY,5,6755.15,33775.75
+TXN-10256,2026-06-23,AIF-007,Vikram Mehta,AIF,Sanctum Wealth,DIVISLAB,Divi's Laboratories Ltd,BUY,50,3792.21,189610.5
+TXN-10199,26-07-2026,PMS-019,Usha Gupta,PMS,IIFL Wealth Management,SUNPHARMA,Sun Pharmaceutical Industries Ltd,SELL,5,1740.11,8700.55
+TXN-10055,03-07-2026,PMS-031,Lakshmi Rao,PMS,IIFL Wealth Management,ASIANPAINT,Asian Paints Ltd,BUY,25,3150.52,78763.0
+TXN-10006,19/05/2026,PMS-015,Mahesh Patel,PMS,ASK Wealth Advisors,DIVISLAB,Divi's Laboratories Ltd,BUY,5,3749.65,18748.25
+TXN-10237,06-06-2026,PMS-033,Sunita Agarwal,PMS,Sanctum Wealth,BHARTIARTL,Bharti Airtel Ltd,PURCHASE,200,1519.02,303804.0
+TXN-10239,2026-08-24,PMS-003,Vikram Iyer,PMS,IIFL Wealth Management,PIDILITIND,Pidilite Industries Ltd,BUY,30,3105.83,93174.9
+TXN-10232,03/08/2026,PMS-012,Rekha Pillai,PMS,IIFL Wealth Management,NESTLEIND,Nestle India Ltd,REDEMPTION,100,2603.67,260367.0
+TXN-10151,07/10/2026,AIF-007,Vikram Mehta,AIF,Sanctum Wealth,TITAN,Titan Company Ltd,BUY,10,2907.68,29076.8
+TXN-10001,23-09-2026,PMS-016,Prakash Iyer,PMS,Sanctum Wealth,RELIANCE,Reliance Industries Ltd,BUY,10,2701.69,27016.9
+TXN-10105,14/10/2026,AIF-014,Geeta Sharma,AIF,Centrum Wealth Management,BHARTIARTL,Bharti Airtel Ltd,SELL,25,1403.59,35089.75
+TXN-10033,06/30/2026,AIF-013,Ramesh Menon,AIF,Motilal Oswal Private Wealth,ICICIBANK,ICICI Bank Ltd,PURCHASE,15,1158.75,17381.25
+TXN-10051,28/05/2026,AIF-007,Vikram Mehta,AIF,Sanctum Wealth,HDFCBANK,HDFC Bank Ltd,PURCHASE,20,1741.88,34837.6
+TXN-10282,26-05-2026,PMS-009,Mahesh Sharma,PMS,Motilal Oswal Private Wealth,ICICIBANK,ICICI Bank Ltd,BUY,100,1081.66,108166.0
+TXN-10284,2026-07-03,AIF-007,Vikram Mehta,AIF,Sanctum Wealth,RELIANCE,Reliance Industries Ltd,PURCHASE,5,2330.88,11654.4
+TXN-10153,02/06/2026,,Usha Menon,PMS,Anand Rathi Wealth,MARUTI,Maruti Suzuki India Ltd,BUY,-20,12160.05,-243201.0
+TXN-10154,25/06/2026,AIF-014,Geeta Sharma,AIF,Centrum Wealth Management,ULTRACEMCO,UltraTech Cement Ltd,BUY,20,9776.02,195520.4
+TXN-10206,26-05-2026,PMS-009,Mahesh Sharma,PMS,Motilal Oswal Private Wealth,ICICIBANK,ICICI Bank Ltd,BUY,100,1081.66,108166.0
+TXN-10060,02-05-2026,AIF-014,Geeta Sharma,AIF,Centrum Wealth Management,DIVISLAB,Divi's Laboratories Ltd,BUY,25,3918.77,97969.25
+TXN-10072,20/06/2026,PMS-025,Gopal Rao,PMS,IIFL Wealth Management,SUNPHARMA,Sun Pharmaceutical Industries Ltd,PURCHASE,200,1537.53,307506.0
+TXN-10122,2026-08-25,PMS-007,Sunita Verma,PMS,Sanctum Wealth,ASIANPAINT,Asian Paints Ltd,BUY,15,2664.06,39960.9
+TXN-10230,13/05/2026,PMS-003,Vikram Iyer,PMS,IIFL Wealth Management,SBIN,State Bank of India,BUY,30,837.06,25111.8
+TXN-10263,2026-09-09,PMS-013,Priya Bhat,PMS,IIFL Wealth Management,BHARTIARTL,Bharti Airtel Ltd,SELL,25,1410.58,35264.5
+TXN-10054,18-09-2026,AIF-012,Rekha Pillai,AIF,IIFL Wealth Management,WIPRO,Wipro Ltd,SELL,15,474.81,7122.15
+TXN-10088,17/07/2026,PMS-019,Usha Gupta,PMS,IIFL Wealth Management,LT,Larsen & Toubro Ltd,BUY,100,2889.05,288905.0
+TXN-10017,27/09/2026,PMS-004,Usha Menon,PMS,Anand Rathi Wealth,MARUTI,Maruti Suzuki India Ltd,BUY,100,11446.61,1144661.0
+TXN-10059,09/27/2026,PMS-014,Sanjay Desai,PMS,Centrum Wealth Management,BAJFINANCE,Bajaj Finance Ltd,BUY,5,7406.64,37033.2
+TXN-10008,02/07/2026,PMS-009,Mahesh Sharma,PMS,Motilal Oswal Private Wealth,DIVISLAB,Divi's Laboratories Ltd,SELL,50,3804.93,190246.5
+TXN-10163,10/02/2026,PMS-034,Shanti Srinivasan,PMS,Motilal Oswal Private Wealth,KOTAKBANK,Kotak Mahindra Bank Ltd,SELL,10,1755.15,41083.35
+TXN-10058,2026-08-13,PMS-010,Saroja Menon,PMS,Avendus Wealth Management,SBIN,State Bank of India,BUY,75,753.62,56521.5
+TXN-10211,2026-07-12,AIF-002,Kishore Chandra,AIF,Sanctum Wealth,ASIANPAINT,Asian Paints Ltd,SELL,100,3114.09,311409.0
+TXN-10278,2026-08-14,PMS-029,Gopal Pillai,PMS,Anand Rathi Wealth,MARUTI,Maruti Suzuki India Ltd,SELL,50,11938.15,596907.5
+TXN-10012,09/18/2026,PMS-005,Priya Gupta,PMS,Waterfield Advisors,ASIANPAINT,Asian Paints Ltd,PURCHASE,200,2712.77,542554.0
+TXN-10126,20-08-2026,PMS-019,Usha Gupta,PMS,IIFL Wealth Management,LT,Larsen & Toubro Ltd,REDEMPTION,200,3506.14,701228.0
+TXN-10053,2026-09-21,AIF-017,Vikram Desai,AIF,Motilal Oswal Private Wealth,ASIANPAINT,Asian Paints Ltd,REDEMPTION,75,3006.32,225474.0
+TXN-10030,2026-08-03,AIF-010,Nirmala Rao,AIF,A. Rathi Wealth,ICICIBANK,ICICI Bank Ltd,SELL,15,1097.82,16467.3
+TXN-10114,2026-10-31,PMS-008,Arun Srinivasan,PMS,Centrum Wealth Management,ICICIBANK,ICICI Bank Ltd,SELL,25,1035.04,25876.0
+TXN-10193,2026-08-27,PMS-023,Padma Desai,PMS,Motilal Oswal Private Wealth,WIPRO,Wipro Ltd,BUY,5,475.38,2376.9
+TXN-10043,2026-10-18,AIF-012,Rekha Pillai,AIF,IIFL Wealth Management,KOTAKBANK,Kotak Mahindra Bank Ltd,SELL,50,1747.39,87369.5
+TXN-10039,2026-07-07,PMS-017,Priya Verma,PMS,Centrum Wealth Management,BHARTIARTL,Bharti Airtel Ltd,SELL,150,1288.87,193330.5
+TXN-10271,09/10/2026,PMS-009,Mahesh Sharma,PMS,Motilal Oswal Private Wealth,MARUTI,Maruti Suzuki India Ltd,PURCHASE,150,11401.07,1710160.5
+TXN-10222,2026-10-05,PMS-010,Saroja Menon,PMS,Avendus Wealth Management,KOTAKBANK,Kotak Mahindra Bank Ltd,SELL,150,1727.6,259140.0
+TXN-10171,24-09-2026,PMS-024,Sanjay Desai,PMS,Waterfield Advisors,INFY,Infosys Ltd,PURCHASE,50,1436.75,71837.5
+TXN-10217,2026-06-05,AIF-019,Meena Agarwal,AIF,Anand Rathi Wealth,MARUTI,Maruti Suzuki India Ltd,PURCHASE,75,10438.1,782857.5
+TXN-10257,2026-09-17,PMS-002,Kavita Nair,PMS,Waterfield Advisors,NESTLEIND,Nestle India Ltd,PURCHASE,25,2299.04,57476.0
+TXN-10273,08/09/2026,PMS-020,Suresh Nair,PMS,Centrum Wealth Management,DIVISLAB,Divi's Laboratories Ltd,BUY,150,3623.28,543492.0
+TXN-10136,2026-07-30,PMS-019,Usha Gupta,PMS,IIFL Wealth Management,LT,Larsen & Toubro Ltd,REDEMPTION,20,3020.16,60403.2
+TXN-10179,2026-07-12,PMS-008,Arun Srinivasan,PMS,Centrum Wealth Management,TITAN,Titan Company Ltd,SELL,150,3210.5,1243665.78
+TXN-10254,2026-09-26,AIF-007,Vikram Mehta,AIF,Sanctum Wealth,BHARTIARTL,Bharti Airtel Ltd,SELL,200,1321.79,264358.0
+TXN-10021,10/08/2026,AIF-011,Kishore Iyer,AIF,Centrum Wealth Management,MARUTI,Maruti Suzuki India Ltd,BUY,200,10651.02,2130204.0
+TXN-10210,2026-08-29,PMS-016,Prakash Iyer,PMS,Sanctum Wealth,KOTAKBANK,Kotak Mahindra Bank Ltd,PURCHASE,20,1923.81,38476.2
+TXN-10091,2026-08-31,PMS-012,Rekha Pillai,PMS,IIFL Wealth Management,RELIANCE,Reliance Industries Ltd,BUY,10,2288.59,22885.9
+TXN-10138,03/06/2026,PMS-003,Vikram Iyer,PMS,IIFL Wealth Management,DIVISLAB,Divi's Laboratories Ltd,BUY,25,3304.9,82622.5
+TXN-10121,10/05/2026,AIF-008,Venkat Reddy,AIF,Sanctum Wealth,ICICIBANK,ICICI Bank Ltd,SELL,150,999.27,149890.5
+TXN-10141,05/20/2026,PMS-022,Lakshmi Rao,PMS,ASK Wealth Advisors,INFY,Infosys Ltd,SELL,20,1410.79,28215.8
+TXN-10255,22/09/2026,AIF-004,Sanjay Nair,AIF,Motilal Oswal Private Wealth,MARUTI,Maruti Suzuki India Ltd,PURCHASE,5,10444.75,52223.75
+TXN-10096,2026-05-21,PMS-014,Sanjay Desai,PMS,Centrum Wealth Management,SBIN,State Bank of India,BUY,15,726.5,10897.5
+TXN-10229,2026-07-19,PMS-013,Priya Bhat,PMS,IIFL Wealth Management,RELIANCE,Reliance Industries Ltd,BUY,100,2487.63,248763.0
+TXN-10040,08/09/2026,AIF-012,Rekha Pillai,AIF,IIFL Wealth Management,MARUTI,Maruti Suzuki India Ltd,SELL,150,10615.99,1592398.5
+TXN-10186,2026-05-28,AIF-010,Nirmala Rao,AIF,A. Rathi Wealth,TITAN,Titan Company Ltd,BUY,150,2940.86,441129.0
+TXN-10241,05/09/2026,PMS-008,Arun Srinivasan,PMS,Centrum Wealth Management,HDFCBANK,HDFC Bank Ltd,REDEMPTION,100,1655.86,165586.0
+TXN-10198,2026-09-12,AIF-011,Kishore Iyer,AIF,Centrum Wealth Management,ASIANPAINT,Asian Paints Ltd,PURCHASE,15,2963.42,44451.3
+TXN-10057,2026-05-21,PMS-022,Lakshmi Rao,PMS,ASK Wealth Advisors,MARUTI,Maruti Suzuki India Ltd,PURCHASE,20,10668.26,213365.2
+TXN-10095,10/04/2026,PMS-020,Suresh Nair,PMS,Centrum Wealth Management,DIVISLAB,Divi's Laboratories Ltd,REDEMPTION,10,3931.28,39312.8
+TXN-10204,19/10/2026,AIF-019,Meena Agarwal,AIF,Anand Rathi Wealth,WIPRO,Wipro Ltd,BUY,30,472.65,14179.5
+TXN-10167,2026-09-20,PMS-007,Sunita Verma,PMS,Sanctum Wealth,TITAN,Titan Company Ltd,PURCHASE,100,2827.19,282719.0
+TXN-10080,24/06/2026,PMS-032,Sunita Chandra,PMS,Avendus Wealth Management,MARUTI,Maruti Suzuki India Ltd,BUY,25,11166.1,279152.5
+TXN-10129,2026-05-21,AIF-009,Lakshmi Rajan,AIF,ASK Wealth Advisors,BHARTIARTL,Bharti Airtel Ltd,BUY,50,1451.1,72555.0
+TXN-10196,08/06/2026,PMS-021,Priya Nair,PMS,IIFL Wealth Management,PIDILITIND,Pidilite Industries Ltd,SELL,75,3110.9,233317.5
+TXN-10041,15/09/2026,PMS-003,Vikram Iyer,PMS,IIFL Wealth Management,BAJFINANCE,Bajaj Finance Ltd,BUY,200,7054.13,1410826.0
+TXN-10079,23/09/2026,PMS-029,Gopal Pillai,PMS,Anand Rathi Wealth,LT,Larsen & Toubro Ltd,PURCHASE,50,3270.61,163530.5
+TXN-10221,05/05/2026,PMS-008,Arun Srinivasan,PMS,Centrum Wealth Management,NESTLEIND,Nestle India Ltd,SELL,150,2463.34,369501.0
+TXN-10260,03/08/2026,PMS-023,Padma Desai,PMS,Motilal Oswal Private Wealth,SUNPHARMA,Sun Pharmaceutical Industries Ltd,BUY,10,1685.03,16850.3
+TXN-10016,25-06-2026,PMS-032,Sunita Chandra,PMS,Avendus Wealth Management,ICICIBANK,ICICI Bank Ltd,BUY,150,1181.24,177186.0
+TXN-10180,10/08/2026,AIF-008,Venkat Reddy,AIF,Sanctum Wealth,KOTAKBANK,Kotak Mahindra Bank Ltd,BUY,5,1952.46,9762.3
+TXN-10093,15/08/2026,PMS-006,Nirmala Rajan,PMS,A. Rathi Wealth,LT,Larsen & Toubro Ltd,BUY,150,3268.04,490206.0
+TXN-10168,10/18/2026,AIF-008,Venkat Reddy,AIF,Sanctum Wealth,INFY,Infosys Ltd,SELL,50,1654.1,82705.0
+TXN-10182,2026-08-06,AIF-013,Ramesh Menon,AIF,Motilal Oswal Private Wealth,BAJFINANCE,Bajaj Finance Ltd,BUY,20,6844.31,136886.2
+TXN-10250,2026-06-16,AIF-015,Nirmala Mehta,AIF,IIFL Wealth Management,ULTRACEMCO,UltraTech Cement Ltd,REDEMPTION,15,9692.72,145390.8
+TXN-10261,03/07/2026,PMS-030,Kamala Patel,PMS,Avendus Wealth Management,INFY,Infosys Ltd,BUY,5,1410.83,7054.15
+TXN-10150,2026-05-26,PMS-029,Gopal Pillai,PMS,Anand Rathi Wealth,LT,Larsen & Toubro Ltd,PURCHASE,30,3507.79,105233.7
+TXN-10078,02/07/2026,AIF-012,Rekha Pillai,AIF,IIFL Wealth Management,DIVISLAB,Divi's Laboratories Ltd,BUY,10,3838.13,38381.3
+TXN-10216,08/04/2026,PMS-016,Prakash Iyer,PMS,Sanctum Wealth,SUNPHARMA,Sun Pharmaceutical Industries Ltd,PURCHASE,30,1587.45,47623.5
+TXN-10069,2026-05-30,PMS-016,Prakash Iyer,PMS,Sanctum Wealth,ICICIBANK,ICICI Bank Ltd,SELL,20,1093.82,21876.4
+TXN-10115,09/19/2026,PMS-031,Lakshmi Rao,PMS,IIFL Wealth Management,NESTLEIND,Nestle India Ltd,BUY,20,2229.43,44588.6
+TXN-10061,2026-09-17,AIF-020,Dinesh Desai,AIF,Centrum Wealth Management,BAJFINANCE,Bajaj Finance Ltd,SELL,20,7207.82,144156.4
+TXN-10099,20/06/2026,,Ravi Joshi,AIF,Waterfield Advisors,DIVISLAB,Divi's Laboratories Ltd,REDEMPTION,100,3546.1,354610.0
+TXN-10067,29-07-2026,AIF-013,Ramesh Menon,AIF,Motilal Oswal Private Wealth,ULTRACEMCO,UltraTech Cement Ltd,BUY,10,8692.57,86925.7
+TXN-10002,2026-09-14,AIF-018,Prakash Kapoor,AIF,A. Rathi Wealth,TCS,Tata Consultancy Services Ltd,PURCHASE,15,4054.69,60820.35
+TXN-10064,07/05/2026,PMS-026,Venkat Mehta,PMS,Waterfield Advisors,DIVISLAB,Divi's Laboratories Ltd,SELL,50,3300.44,165022.0
+TXN-10083,26/06/2026,PMS-029,Gopal Pillai,PMS,Anand Rathi Wealth,HDFCBANK,HDFC Bank Ltd,BUY,20,1618.45,32369.0
+TXN-10140,01-09-2026,PMS-018,Kamala Rajan,PMS,Avendus Wealth Management,BHARTIARTL,Bharti Airtel Ltd,BUY,25,1552.74,38818.5
+TXN-10036,26/08/2026,PMS-015,Mahesh Patel,PMS,ASK Wealth Advisors,SBIN,State Bank of India,PURCHASE,20,756.55,15131.0
+TXN-10267,19/06/2026,PMS-026,Venkat Mehta,PMS,Waterfield Advisors,RELIANCE,Reliance Industries Ltd,SELL,25,2411.81,60295.25
+TXN-10025,17/10/2026,AIF-008,Venkat Reddy,AIF,Sanctum Wealth,ULTRACEMCO,UltraTech Cement Ltd,BUY,15,8470.6,127059.0
+TXN-10172,10/12/2026,AIF-015,Nirmala Mehta,AIF,IIFL Wealth Management,PIDILITIND,Pidilite Industries Ltd,REDEMPTION,150,2882.34,432351.0
+TXN-10264,01/07/2026,PMS-006,Nirmala Rajan,PMS,A. Rathi Wealth,SUNPHARMA,Sun Pharmaceutical Industries Ltd,SELL,30,1584.29,47528.7
+TXN-10023,2026-07-29,PMS-014,Sanjay Desai,PMS,Centrum Wealth Management,WIPRO,Wipro Ltd,BUY,20,516.56,10331.2
+TXN-10084,13/09/2026,AIF-003,Shanti Chandra,AIF,Sanctum Wealth,TITAN,Titan Company Ltd,SELL,100,3003.13,300313.0
+TXN-10283,22-08-2026,AIF-008,Venkat Reddy,AIF,Sanctum Wealth,BAJFINANCE,Bajaj Finance Ltd,SELL,20,6683.29,133665.8
+TXN-10281,2026-05-25,AIF-018,Prakash Kapoor,AIF,A. Rathi Wealth,ASIANPAINT,Asian Paints Ltd,BUY,30,2839.4,85182.0
+TXN-10175,2026-09-13,AIF-013,Ramesh Menon,AIF,Motilal Oswal Private Wealth,HDFCBANK,HDFC Bank Ltd,BUY,50,1555.99,77799.5
+TXN-10164,2026-06-25,AIF-007,Vikram Mehta,AIF,Sanctum Wealth,ULTRACEMCO,UltraTech Cement Ltd,REDEMPTION,20,9071.33,181426.6
+TXN-10157,14-06-2026,PMS-016,Prakash Iyer,PMS,Sanctum Wealth,DIVISLAB,Divi's Laboratories Ltd,BUY,15,3431.06,51465.9
+TXN-10045,12/08/2026,PMS-012,Rekha Pillai,PMS,IIFL Wealth Management,PIDILITIND,Pidilite Industries Ltd,SELL,5,2877.32,14386.6
+TXN-10219,03-10-2026,AIF-019,Meena Agarwal,AIF,Anand Rathi Wealth,ICICIBANK,ICICI Bank Ltd,SELL,10,1086.0,10860.0
+TXN-10194,2026-05-24,PMS-019,Usha Gupta,PMS,IIFL Wealth Management,TCS,Tata Consultancy Services Ltd,REDEMPTION,100,3938.56,393856.0
+TXN-10173,07/09/2026,AIF-019,Meena Agarwal,AIF,Anand Rathi Wealth,AXISBANK,Axis Bank Ltd,BUY,25,1196.62,29915.5
+TXN-10234,2026-10-17,PMS-021,Priya Nair,PMS,IIFL Wealth Management,INFY,Infosys Ltd,BUY,75,1457.87,109340.25
+TXN-10076,08/20/2026,AIF-019,Meena Agarwal,AIF,Anand Rathi Wealth,ASIANPAINT,Asian Paints Ltd,REDEMPTION,100,2758.92,275892.0
+TXN-10203,2026-10-12,PMS-006,  Nirmala Rajan  ,PMS,A. Rathi Wealth  ,KOTAKBANK,Kotak Mahindra Bank Ltd,SELL,15,1883.83,28257.45
+TXN-10087,12-09-2026,PMS-018,Kamala Rajan,PMS,Avendus Wealth Management,DIVISLAB,Divi's Laboratories Ltd,PURCHASE,10,3669.69,36696.9
+TXN-10189,2026-06-07,AIF-018,Prakash Kapoor,AIF,A. Rathi Wealth,ICICIBANK,ICICI Bank Ltd,BUY,15,1027.29,15409.35
+TXN-10004,2026-08-11,AIF-014,Geeta Sharma,AIF,Centrum Wealth Management,SBIN,State Bank of India,REDEMPTION,200,857.24,171448.0
+TXN-10266,2026-07-07,AIF-020,Dinesh Desai,AIF,Centrum Wealth Management,INFY,Infosys Ltd,SELL,50,1589.16,79458.0
+TXN-10184,12/08/2026,PMS-021,Priya Nair,PMS,IIFL Wealth Management,DIVISLAB,Divi's Laboratories Ltd,SELL,50,3750.84,187542.0
+TXN-10066,2026-08-16,AIF-014,Geeta Sharma,AIF,Centrum Wealth Management,SUNPHARMA,Sun Pharmaceutical Industries Ltd,BUY,10,1596.76,15967.6
+TXN-10166,30/08/2026,PMS-024,Sanjay Desai,PMS,Waterfield Advisors,ICICIBANK,ICICI Bank Ltd,REDEMPTION,10,986.5,9865.0
+TXN-10118,23/08/2026,AIF-003,Shanti Chandra,AIF,Sanctum Wealth,NESTLEIND,Nestle India Ltd,PURCHASE,30,2418.52,72555.6
+TXN-10188,2026-06-19,AIF-006,Rekha Patel,AIF,IIFL Wealth Management,INFY,Infosys Ltd,SELL,30,1643.4,49302.0
+TXN-10042,24-07-2026,PMS-028,Kavita Verma,PMS,Waterfield Advisors,TCS,Tata Consultancy Services Ltd,PURCHASE,200,3944.83,788966.0
+TXN-10085,04/07/2026,AIF-010,Nirmala Rao,AIF,A. Rathi Wealth,ASIANPAINT,Asian Paints Ltd,BUY,20,2791.02,55820.4
+TXN-10029,18/08/2026,PMS-011,Kavita Krishnan,PMS,Waterfield Advisors,ASIANPAINT,Asian Paints Ltd,SELL,10,2985.94,29859.4
+TXN-10208,2026-06-12,PMS-012,Rekha Pillai,PMS,IIFL Wealth Management,PIDILITIND,Pidilite Industries Ltd,PURCHASE,5,2976.07,14880.35
+TXN-10050,26/10/2026,AIF-006,Rekha Patel,AIF,IIFL Wealth Management,DIVISLAB,Divi's Laboratories Ltd,BUY,50,3516.46,175823.0
+TXN-10070,03-10-2026,PMS-017,Priya Verma,PMS,Centrum Wealth Management,TITAN,Titan Company Ltd,BUY,10,3387.52,33875.2
+TXN-10277,02/07/2026,PMS-025,Gopal Rao,PMS,IIFL Wealth Management,ICICIBANK,ICICI Bank Ltd,PURCHASE,10,978.82,9788.2
+TXN-10130,06/06/2026,PMS-016,Prakash Iyer,PMS,Sanctum Wealth,NESTLEIND,Nestle India Ltd,PURCHASE,200,2271.45,454290.0
+TXN-10218,02/05/2026,PMS-009,Mahesh Sharma,PMS,Motilal Oswal Private Wealth,NESTLEIND,Nestle India Ltd,SELL,5,2594.81,12974.05
+TXN-10035,10/27/2026,AIF-013,Ramesh Menon,AIF,Motilal Oswal Private Wealth,LT,Larsen & Toubro Ltd,BUY,5,2949.18,14745.9
+TXN-10265,2026-10-15,PMS-019,Usha Gupta,PMS,IIFL Wealth Management,NESTLEIND,Nestle India Ltd,SELL,25,2482.81,62070.25
+TXN-10135,13-05-2026,PMS-001,Padma Iyer,PMS,A. Rathi Wealth,DIVISLAB,Divi's Laboratories Ltd,PURCHASE,75,3895.64,292173.0
+TXN-10198,2026-09-12,AIF-011,Kishore Iyer,AIF,Centrum Wealth Management,ASIANPAINT,Asian Paints Ltd,PURCHASE,15,2963.42,44451.3
+TXN-10262,10-06-2026,PMS-025,Gopal Rao,PMS,IIFL Wealth Management,PIDILITIND,Pidilite Industries Ltd,SELL,150,3028.68,454302.0
+TXN-10117,01-05-2026,AIF-016,Ravi Joshi,AIF,Waterfield Advisors,WIPRO,Wipro Ltd,BUY,25,459.15,11478.75
+TXN-10073,01-10-2026,AIF-010,Nirmala Rao,AIF,A. Rathi Wealth,KOTAKBANK,Kotak Mahindra Bank Ltd,PURCHASE,150,1888.77,283315.5
+TXN-10086,24-10-2026,AIF-013,Ramesh Menon,AIF,Motilal Oswal Private Wealth,ULTRACEMCO,UltraTech Cement Ltd,PURCHASE,20,8620.68,172413.6
+TXN-10028,07/25/2026,PMS-028,Kavita Verma,PMS,Waterfield Advisors,AXISBANK,Axis Bank Ltd,BUY,200,1212.36,242472.0
+TXN-10155,07/06/2026,PMS-010,Saroja Menon,PMS,Avendus Wealth Management,PIDILITIND,Pidilite Industries Ltd,BUY,100,3127.89,312789.0
+TXN-10146,30/05/2026,AIF-010,Nirmala Rao,AIF,A. Rathi Wealth,KOTAKBANK,Kotak Mahindra Bank Ltd,REDEMPTION,5,1651.76,8258.8
+TXN-10077,2026-09-15,PMS-018,Kamala Rajan,PMS,Avendus Wealth Management,PIDILITIND,Pidilite Industries Ltd,PURCHASE,75,3006.55,225491.25
+TXN-10269,2026-08-09,PMS-008,Arun Srinivasan,PMS,Centrum Wealth Management,ICICIBANK,ICICI Bank Ltd,PURCHASE,30,1052.61,31578.3
+TXN-10249,10/22/2026,PMS-021,Priya Nair,PMS,IIFL Wealth Management,TCS,Tata Consultancy Services Ltd,SELL,15,3863.37,57950.55
+TXN-10225,31/07/2026,PMS-024,Sanjay Desai,PMS,Waterfield Advisors,AXISBANK,Axis Bank Ltd,REDEMPTION,30,1216.36,36490.8
+TXN-10075,2026-05-28,AIF-020,Dinesh Desai,AIF,Centrum Wealth Management,HDFCBANK,Infosys Ltd,PURCHASE,30,6709.59,201287.7
+TXN-10238,10/13/2026,PMS-003,Vikram Iyer,PMS,IIFL Wealth Management,ICICIBANK,ICICI Bank Ltd,BUY,50,1051.13,52556.5
+TXN-10224,2026-08-08,AIF-016,Ravi Joshi,AIF,Waterfield Advisors,WIPRO,Wipro Ltd,SELL,5,515.84,2579.2
+TXN-10192,2026-10-09,PMS-029,Gopal Pillai,PMS,Anand Rathi Wealth,TCS,Tata Consultancy Services Ltd,SELL,25,3698.17,92454.25
+TXN-10251,07/17/2026,PMS-004,Usha Menon,PMS,Anand Rathi Wealth,INFY,Infosys Ltd,SELL,-30,1418.06,-42541.8
+TXN-10048,30-06-2026,AIF-006,Rekha Patel,AIF,IIFL Wealth Management,PIDILITIND,Pidilite Industries Ltd,BUY,20,2948.49,58969.8
+TXN-10127,16/07/2026,,Sunita Verma,PMS,Sanctum Wealth,ASIANPAINT,Asian Paints Ltd,BUY,5,3188.02,15940.1
+TXN-10202,2026-10-26,PMS-023,Padma Desai,PMS,Motilal Oswal Private Wealth,KOTAKBANK,Kotak Mahindra Bank Ltd,PURCHASE,15,1837.72,27565.8
+TXN-10102,08/21/2026,PMS-018,Kamala Rajan,PMS,Avendus Wealth Management,WIPRO,Wipro Ltd,SELL,5,439.72,2198.6
+TXN-10253,08/10/2026,AIF-006,Rekha Patel,AIF,IIFL Wealth Management,ULTRACEMCO,UltraTech Cement Ltd,BUY,100,8837.2,883720.0
+TXN-10010,26/07/2026,AIF-007,Vikram Mehta,AIF,Sanctum Wealth,INFY,Infosys Ltd,BUY,10,1611.38,16113.8
+TXN-10236,2026-05-15,PMS-028,Kavita Verma,PMS,Waterfield Advisors,AXISBANK,Axis Bank Ltd,REDEMPTION,200,1052.26,210452.0
+TXN-10240,02/08/2026,PMS-005,Priya Gupta,PMS,Waterfield Advisors,DIVISLAB,Divi's Laboratories Ltd,BUY,200,3526.58,705316.0
+TXN-10259,03-10-2026,PMS-031,Lakshmi Rao,PMS,IIFL Wealth Management,ASIANPAINT,Asian Paints Ltd,BUY,30,2739.76,82192.8
+TXN-10215,2026-05-07,PMS-015,Mahesh Patel,PMS,ASK Wealth Advisors,ASIANPAINT,Asian Paints Ltd,PURCHASE,50,2899.79,144989.5
+TXN-10226,2026-07-25,AIF-008,Venkat Reddy,AIF,Sanctum Wealth,INFY,Infosys Ltd,PURCHASE,30,1408.56,42256.8
+TXN-10107,11/06/2026,PMS-022,Lakshmi Rao,PMS,ASK Wealth Advisors,MARUTI,Maruti Suzuki India Ltd,REDEMPTION,-75,11108.55,-833141.25
+TXN-10090,2026-09-24,PMS-032,Sunita Chandra,PMS,Avendus Wealth Management,INFY,Infosys Ltd,PURCHASE,75,1454.44,109083.0
+TXN-10020,22/09/2026,PMS-006,Nirmala Rajan,PMS,A. Rathi Wealth,BAJFINANCE,Bajaj Finance Ltd,REDEMPTION,25,6830.98,170774.5
+TXN-10119,2026-07-22,AIF-014,Geeta Sharma,AIF,Centrum Wealth Management,ULTRACEMCO,UltraTech Cement Ltd,BUY,20,9880.07,197601.4
+TXN-10046,2026-10-03,PMS-014,Sanjay Desai,PMS,Centrum Wealth Management,BAJFINANCE,Bajaj Finance Ltd,PURCHASE,75,7010.4,525780.0
+TXN-10031,2026-05-11,PMS-003,Vikram Iyer,PMS,IIFL Wealth Management,KOTAKBANK,Kotak Mahindra Bank Ltd,BUY,20,1922.02,38440.4
+TXN-10147,2026-09-15,PMS-032,Sunita Chandra,PMS,Avendus Wealth Management,INFY,Infosys Ltd,BUY,75,1409.24,105693.0
+TXN-10165,2026-05-25,AIF-018,Prakash Kapoor,AIF,A. Rathi Wealth,ASIANPAINT,Asian Paints Ltd,BUY,30,2839.4,85182.0
+TXN-10148,2027-02-15,AIF-013,Ramesh Menon,AIF,Motilal Oswal Private Wealth,ULTRACEMCO,UltraTech Cement Ltd,SELL,-200,9909.16,-1981832.0
+TXN-10103,07-05-2026,AIF-013,Ramesh Menon,AIF,Motilal Oswal Private Wealth,MARUTI,Maruti Suzuki India Ltd,REDEMPTION,200,10560.05,2112010.0
+TXN-10245,2026-10-27,PMS-020,Suresh Nair,PMS,Centrum Wealth Management,BHARTIARTL,Bharti Airtel Ltd,REDEMPTION,30,1459.11,43773.3
+TXN-10244,29/10/2026,AIF-017,Vikram Desai,AIF,Motilal Oswal Private Wealth,MARUTI,Maruti Suzuki India Ltd,REDEMPTION,100,10499.36,1049936.0
+TXN-10209,04/10/2026,AIF-009,Lakshmi Rajan,AIF,ASK Wealth Advisors,LT,Larsen & Toubro Ltd,PURCHASE,75,3062.35,229676.25
+TXN-10081,10/09/2026,AIF-004,Sanjay Nair,AIF,Motilal Oswal Private Wealth,AXISBANK,Axis Bank Ltd,SELL,10,1253.05,12530.5
+TXN-10003,10/03/2026,AIF-001,Kishore Verma,AIF,Centrum Wealth Management,BHARTIARTL,Bharti Airtel Ltd,BUY,20,1398.17,27963.4
+TXN-10174,06/06/2026,PMS-023,Padma Desai,PMS,Motilal Oswal Private Wealth,HDFCBANK,HDFC Bank Ltd,BUY,50,1671.89,83594.5
+TXN-10275,2026-07-07,AIF-016,Ravi Joshi,AIF,Waterfield Advisors,HDFCBANK,HDFC Bank Ltd,SELL,150,1804.13,270619.5
+TXN-10242,2026-06-24,AIF-015,Nirmala Mehta,AIF,IIFL Wealth Management,AXISBANK,Axis Bank Ltd,REDEMPTION,25,1264.16,31604.0
+TXN-10170,27-06-2026,PMS-014,Sanjay Desai,PMS,Centrum Wealth Management,ICICIBANK,ICICI Bank Ltd,REDEMPTION,30,1155.01,34650.3
+TXN-10212,2026-06-05,PMS-011,Kavita Krishnan,PMS,Waterfield Advisors,SBIN,State Bank of India,PURCHASE,5,838.19,4190.95
+TXN-10052,2026-09-20,AIF-010,Nirmala Rao,AIF,A. Rathi Wealth,WIPRO,Wipro Ltd,SELL,10,455.92,4559.2
+TXN-10027,04/07/2026,AIF-006,Rekha Patel,AIF,IIFL Wealth Management,AXISBANK,Axis Bank Ltd,SELL,5,1243.23,6216.15
+TXN-10120,2026-08-30,PMS-015,Mahesh Patel,PMS,ASK Wealth Advisors,BAJFINANCE,Bajaj Finance Ltd,BUY,50,7079.11,353955.5
+TXN-10116,10/07/2026,,Sunita Agarwal,PMS,Sanctum Wealth,ICICIBANK,ICICI Bank Ltd,PURCHASE,50,1138.9,56945.0
+TXN-10272,21-07-2026,PMS-009,Mahesh Sharma,PMS,Motilal Oswal Private Wealth,MARUTI,Maruti Suzuki India Ltd,PURCHASE,150,10723.75,1608562.5
+TXN-10026,12/07/2026,PMS-007,Sunita Verma,PMS,Sanctum Wealth,ULTRACEMCO,UltraTech Cement Ltd,BUY,30,9392.89,281786.7
+TXN-10125,2026-05-10,AIF-014,Geeta Sharma,AIF,Centrum Wealth Management,NESTLEIND,Nestle India Ltd,PURCHASE,20,2456.38,49127.6
+TXN-10123,2026-07-07,AIF-007,Vikram Mehta,AIF,Sanctum Wealth,ICICIBANK,ICICI Bank Ltd,BUY,50,1045.13,52256.5
+TXN-10056,10/07/2026,PMS-034,Shanti Srinivasan,PMS,Motilal Oswal Private Wealth,NESTLEIND,Nestle India Ltd,REDEMPTION,25,2371.14,59278.5
+TXN-10071,2026-05-07,PMS-011,Kavita Krishnan,PMS,Waterfield Advisors,KOTAKBANK,Kotak Mahindra Bank Ltd,BUY,150,1932.68,289902.0
+TXN-10140,01-09-2026,PMS-018,Kamala Rajan,PMS,Avendus Wealth Management,BHARTIARTL,Bharti Airtel Ltd,BUY,25,1552.74,38818.5
+TXN-10139,2026-09-16,PMS-027,Deepak Srinivasan,PMS,Sanctum Wealth,BHARTIARTL,Bharti Airtel Ltd,BUY,30,1526.91,45807.3
+TXN-10276,13-06-2026,AIF-012,Rekha Pillai,AIF,IIFL Wealth Management,RELIANCE,Reliance Industries Ltd,SELL,150,2492.02,373803.0
+TXN-10104,20/10/2026,AIF-002,Kishore Chandra,AIF,Sanctum Wealth,DIVISLAB,Divi's Laboratories Ltd,PURCHASE,150,3831.42,574713.0
+TXN-10110,2026-10-07,PMS-004,Usha Menon,PMS,Anand Rathi Wealth,SBIN,State Bank of India,SELL,200,820.01,164002.0
+TXN-10246,2026-06-30,PMS-008,Arun Srinivasan,PMS,Centrum Wealth Management,SBIN,State Bank of India,PURCHASE,5,825.3,11973.98
+TXN-10132,2026-09-28,PMS-005,Priya Gupta,PMS,Waterfield Advisors,ASIANPAINT,Asian Paints Ltd,PURCHASE,50,2831.5,141575.0
+TXN-10227,2026-10-23,AIF-018,Prakash Kapoor,AIF,A. Rathi Wealth,BHARTIARTL,Bharti Airtel Ltd,PURCHASE,75,1409.95,105746.25
+TXN-10178,22-08-2026,AIF-008,Venkat Reddy,AIF,Sanctum Wealth,BAJFINANCE,Bajaj Finance Ltd,SELL,20,6683.29,133665.8
